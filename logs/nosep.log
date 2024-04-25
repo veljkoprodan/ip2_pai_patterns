@@ -4,12 +4,6 @@ Genome 1/90: NC_010468
 No PAI sequences
 CPAI 1/3: 4 unique patterns
 CPAI 2/3: 70 unique patterns
-Max pattern length: 100
---------------------------
-Genome 1/90: NC_010468
-No PAI sequences
-CPAI 1/3: 4 unique patterns
-CPAI 2/3: 70 unique patterns
 CPAI 3/3: 96 unique patterns
 NPAI 1/2: 15 unique patterns
 NPAI 2/2: 17 unique patterns
@@ -17,7 +11,836 @@ NPAI 2/2: 17 unique patterns
 Genome 2/90: NC_011748
 No PAI sequences
 CPAI 1/10: 126 unique patterns
-CPAI 2/10: 4084 unique patterns
+CPAI 2/10: island too large
 CPAI 3/10: 61 unique patterns
 CPAI 4/10: 10 unique patterns
-CPAI 5/10: 198 unique patterns
+CPAI 5/10: island too large
+CPAI 6/10: island too large
+CPAI 7/10: 275 unique patterns
+CPAI 8/10: 32 unique patterns
+CPAI 9/10: 19 unique patterns
+CPAI 10/10: 10 unique patterns
+NPAI 1/1: 10 unique patterns
+--------------------------
+Genome 3/90: NC_011751
+PAI 1/1: island too large
+CPAI 1/7: 70 unique patterns
+CPAI 2/7: 13 unique patterns
+CPAI 3/7: island too large
+CPAI 4/7: 105 unique patterns
+CPAI 5/7: island too large
+CPAI 6/7: 135655 unique patterns
+CPAI 7/7: 35 unique patterns
+NPAI 1/2: 40 unique patterns
+NPAI 2/2: 19 unique patterns
+--------------------------
+Genome 4/90: NC_012759
+No PAI sequences
+CPAI 1/5: 6 unique patterns
+CPAI 2/5: 3994 unique patterns
+CPAI 3/5: 37 unique patterns
+CPAI 4/5: 20 unique patterns
+CPAI 5/5: 21 unique patterns
+NPAI 1/2: 19 unique patterns
+NPAI 2/2: 61 unique patterns
+--------------------------
+Genome 5/90: NC_017635
+No PAI sequences
+CPAI 1/4: 391 unique patterns
+CPAI 2/4: 79 unique patterns
+CPAI 3/4: 7 unique patterns
+CPAI 4/4: 10 unique patterns
+NPAI 1/2: 15 unique patterns
+NPAI 2/2: 124 unique patterns
+--------------------------
+Genome 6/90: NC_013365
+No PAI sequences
+CPAI 1/1: 83875 unique patterns
+No NPAI sequences
+--------------------------
+Genome 7/90: NC_017641
+No PAI sequences
+CPAI 1/6: 177 unique patterns
+CPAI 2/6: island too large
+CPAI 3/6: island too large
+CPAI 4/6: 57 unique patterns
+CPAI 5/6: island too large
+CPAI 6/6: 0 unique patterns
+NPAI 1/1: 35 unique patterns
+--------------------------
+Genome 8/90: NC_018662
+No PAI sequences
+No CPAI sequences
+NPAI 1/1: 837 unique patterns
+--------------------------
+Genome 9/90: NC_010488
+No PAI sequences
+CPAI 1/1: 56374 unique patterns
+No NPAI sequences
+--------------------------
+Genome 10/90: NC_017630
+No PAI sequences
+No CPAI sequences
+NPAI 1/1: 692 unique patterns
+--------------------------
+Genome 11/90: NC_007946
+No PAI sequences
+CPAI 1/10: 106 unique patterns
+CPAI 2/10: 13 unique patterns
+CPAI 3/10: 188 unique patterns
+CPAI 4/10: island too large
+CPAI 5/10: island too large
+CPAI 6/10: 58 unique patterns
+CPAI 7/10: island too large
+CPAI 8/10: 69 unique patterns
+CPAI 9/10: island too large
+CPAI 10/10: 28 unique patterns
+NPAI 1/2: 3 unique patterns
+NPAI 2/2: 35 unique patterns
+--------------------------
+Genome 12/90: NC_009786
+No PAI sequences
+No CPAI sequences
+No NPAI sequences
+--------------------------
+Genome 13/90: NC_017660
+No PAI sequences
+CPAI 1/4: 394 unique patterns
+CPAI 2/4: 5 unique patterns
+CPAI 3/4: 51 unique patterns
+CPAI 4/4: 7 unique patterns
+NPAI 1/2: 115 unique patterns
+NPAI 2/2: 15 unique patterns
+--------------------------
+Genome 14/90: NC_017651
+No PAI sequences
+CPAI 1/12: 80 unique patterns
+CPAI 2/12: 165 unique patterns
+CPAI 3/12: 6 unique patterns
+CPAI 4/12: 16 unique patterns
+CPAI 5/12: 200 unique patterns
+CPAI 6/12: island too large
+CPAI 7/12: island too large
+CPAI 8/12: 40 unique patterns
+CPAI 9/12: 36 unique patterns
+CPAI 10/12: island too large
+CPAI 11/12: 82 unique patterns
+CPAI 12/12: 22 unique patterns
+NPAI 1/2: 3 unique patterns
+NPAI 2/2: 24 unique patterns
+--------------------------
+Genome 15/90: NC_002695
+PAI 1/2: 101 unique patterns
+PAI 2/2: island too large
+CPAI 1/6: 247 unique patterns
+CPAI 2/6: island too large
+CPAI 3/6: 8995 unique patterns
+CPAI 4/6: 101 unique patterns
+CPAI 5/6: 35 unique patterns
+CPAI 6/6: island too large
+NPAI 1/2: 9 unique patterns
+NPAI 2/2: 34 unique patterns
+--------------------------
+Genome 16/90: NC_013353
+PAI 1/1: island too large
+CPAI 1/8: 2294 unique patterns
+CPAI 2/8: 3 unique patterns
+CPAI 3/8: 29 unique patterns
+CPAI 4/8: 45 unique patterns
+CPAI 5/8: island too large
+CPAI 6/8: island too large
+CPAI 7/8: island too large
+CPAI 8/8: 103 unique patterns
+NPAI 1/1: 18 unique patterns
+--------------------------
+Genome 17/90: NC_007414
+No PAI sequences
+No CPAI sequences
+NPAI 1/1: 453 unique patterns
+--------------------------
+Genome 18/90: NC_017656
+No PAI sequences
+CPAI 1/5: 114 unique patterns
+CPAI 2/5: 24 unique patterns
+CPAI 3/5: 31 unique patterns
+CPAI 4/5: island too large
+CPAI 5/5: island too large
+NPAI 1/2: 16 unique patterns
+NPAI 2/2: 34 unique patterns
+--------------------------
+Genome 19/90: NC_017664
+No PAI sequences
+CPAI 1/4: 393 unique patterns
+CPAI 2/4: 54 unique patterns
+CPAI 3/4: 7 unique patterns
+CPAI 4/4: 10 unique patterns
+NPAI 1/2: 15 unique patterns
+NPAI 2/2: 124 unique patterns
+--------------------------
+Genome 20/90: NC_017659
+No PAI sequences
+CPAI 1/2: 2058 unique patterns
+CPAI 2/2: 414 unique patterns
+NPAI 1/1: 294 unique patterns
+--------------------------
+Genome 21/90: NC_000913
+No PAI sequences
+CPAI 1/4: 9 unique patterns
+CPAI 2/4: 25 unique patterns
+CPAI 3/4: 20 unique patterns
+CPAI 4/4: 8 unique patterns
+NPAI 1/3: 37 unique patterns
+NPAI 2/3: 18 unique patterns
+NPAI 3/3: 67 unique patterns
+--------------------------
+Genome 22/90: NC_007941
+No PAI sequences
+No CPAI sequences
+NPAI 1/1: 683 unique patterns
+--------------------------
+Genome 23/90: NC_012892
+No PAI sequences
+CPAI 1/6: 5 unique patterns
+CPAI 2/6: 4568 unique patterns
+CPAI 3/6: 43 unique patterns
+CPAI 4/6: 185 unique patterns
+CPAI 5/6: 15 unique patterns
+CPAI 6/6: 10 unique patterns
+NPAI 1/1: 17 unique patterns
+--------------------------
+Genome 24/90: NC_011601
+No PAI sequences
+CPAI 1/5: 31 unique patterns
+CPAI 2/5: 33 unique patterns
+CPAI 3/5: 47 unique patterns
+CPAI 4/5: island too large
+CPAI 5/5: 6594 unique patterns
+NPAI 1/2: 5 unique patterns
+NPAI 2/2: 28 unique patterns
+--------------------------
+Genome 25/90: NC_011993
+No PAI sequences
+CPAI 1/6: island too large
+CPAI 2/6: 17 unique patterns
+CPAI 3/6: island too large
+CPAI 4/6: 34 unique patterns
+CPAI 5/6: island too large
+CPAI 6/6: 36 unique patterns
+NPAI 1/1: 3 unique patterns
+--------------------------
+Genome 26/90: NC_011419
+No PAI sequences
+No CPAI sequences
+NPAI 1/1: 406 unique patterns
+--------------------------
+Genome 27/90: NC_013364
+PAI 1/1: island too large
+CPAI 1/9: 545 unique patterns
+CPAI 2/9: 13 unique patterns
+CPAI 3/9: island too large
+CPAI 4/9: 23 unique patterns
+CPAI 5/9: 4366 unique patterns
+CPAI 6/9: 41 unique patterns
+CPAI 7/9: island too large
+CPAI 8/9: 33 unique patterns
+CPAI 9/9: 0 unique patterns
+No NPAI sequences
+--------------------------
+Genome 28/90: NC_007779
+No PAI sequences
+CPAI 1/4: 9 unique patterns
+CPAI 2/4: 3995 unique patterns
+CPAI 3/4: 24 unique patterns
+CPAI 4/4: 33 unique patterns
+NPAI 1/3: 36 unique patterns
+NPAI 2/3: 17 unique patterns
+NPAI 3/3: 64 unique patterns
+--------------------------
+Genome 29/90: NC_017645
+No PAI sequences
+CPAI 1/2: 23690 unique patterns
+CPAI 2/2: 61482 unique patterns
+No NPAI sequences
+--------------------------
+Genome 30/90: NC_013941
+No PAI sequences
+CPAI 1/5: 183 unique patterns
+CPAI 2/5: island too large
+CPAI 3/5: 30 unique patterns
+CPAI 4/5: island too large
+CPAI 5/5: island too large
+NPAI 1/2: 15 unique patterns
+NPAI 2/2: 34 unique patterns
+--------------------------
+Genome 31/90: NC_009790
+No PAI sequences
+CPAI 1/2: 686 unique patterns
+CPAI 2/2: 358 unique patterns
+No NPAI sequences
+--------------------------
+Genome 32/90: NC_012967
+No PAI sequences
+CPAI 1/7: 4 unique patterns
+CPAI 2/7: 4568 unique patterns
+CPAI 3/7: 97 unique patterns
+CPAI 4/7: 180 unique patterns
+CPAI 5/7: 14 unique patterns
+CPAI 6/7: 8 unique patterns
+CPAI 7/7: 56 unique patterns
+NPAI 1/1: 16 unique patterns
+--------------------------
+Genome 33/90: NC_017628
+No PAI sequences
+CPAI 1/8: 97 unique patterns
+CPAI 2/8: 15 unique patterns
+CPAI 3/8: 188 unique patterns
+CPAI 4/8: island too large
+CPAI 5/8: island too large
+CPAI 6/8: 56 unique patterns
+CPAI 7/8: island too large
+CPAI 8/8: 14 unique patterns
+NPAI 1/3: 3 unique patterns
+NPAI 2/3: 35 unique patterns
+NPAI 3/3: 30 unique patterns
+--------------------------
+Genome 34/90: NC_009800
+No PAI sequences
+CPAI 1/4: 187 unique patterns
+CPAI 2/4: island too large
+CPAI 3/4: 81 unique patterns
+CPAI 4/4: 163 unique patterns
+NPAI 1/1: 17 unique patterns
+--------------------------
+Genome 35/90: NC_004431
+PAI 1/2: island too large
+PAI 2/2: island too large
+CPAI 1/12: island too large
+CPAI 2/12: 6 unique patterns
+CPAI 3/12: 15 unique patterns
+CPAI 4/12: 194 unique patterns
+CPAI 5/12: island too large
+CPAI 6/12: island too large
+CPAI 7/12: 6 unique patterns
+CPAI 8/12: 11 unique patterns
+CPAI 9/12: island too large
+CPAI 10/12: 0 unique patterns
+CPAI 11/12: 14 unique patterns
+CPAI 12/12: island too large
+NPAI 1/2: 3 unique patterns
+NPAI 2/2: 22 unique patterns
+--------------------------
+Genome 36/90: NC_017625
+No PAI sequences
+CPAI 1/3: 20 unique patterns
+CPAI 2/3: 3992 unique patterns
+CPAI 3/3: 6 unique patterns
+NPAI 1/3: 68 unique patterns
+NPAI 2/3: 18 unique patterns
+NPAI 3/3: 37 unique patterns
+--------------------------
+Genome 37/90: NC_013354
+No PAI sequences
+CPAI 1/1: 1406 unique patterns
+No NPAI sequences
+--------------------------
+Genome 38/90: NC_018658
+No PAI sequences
+CPAI 1/13: island too large
+CPAI 2/13: island too large
+CPAI 3/13: 0 unique patterns
+CPAI 4/13: 84 unique patterns
+CPAI 5/13: 27 unique patterns
+CPAI 6/13: island too large
+CPAI 7/13: 67 unique patterns
+CPAI 8/13: 8 unique patterns
+CPAI 9/13: 648 unique patterns
+CPAI 10/13: 122 unique patterns
+CPAI 11/13: 56 unique patterns
+CPAI 12/13: 21 unique patterns
+CPAI 13/13: island too large
+NPAI 1/1: 12 unique patterns
+--------------------------
+Genome 39/90: NC_013008
+No PAI sequences
+CPAI 1/6: 279 unique patterns
+CPAI 2/6: island too large
+CPAI 3/6: 7523 unique patterns
+CPAI 4/6: 110 unique patterns
+CPAI 5/6: 35 unique patterns
+CPAI 6/6: island too large
+NPAI 1/1: 30 unique patterns
+--------------------------
+Genome 40/90: NC_013361
+PAI 1/1: island too large
+CPAI 1/6: island too large
+CPAI 2/6: island too large
+CPAI 3/6: 16 unique patterns
+CPAI 4/6: 58 unique patterns
+CPAI 5/6: island too large
+CPAI 6/6: island too large
+NPAI 1/1: 44 unique patterns
+--------------------------
+Genome 41/90: NC_009838
+No PAI sequences
+CPAI 1/1: 7282 unique patterns
+No NPAI sequences
+--------------------------
+Genome 42/90: NC_018659
+No PAI sequences
+CPAI 1/1: 1361 unique patterns
+No NPAI sequences
+--------------------------
+Genome 43/90: NC_008563
+PAI 1/5: 61 unique patterns
+PAI 2/5: 649 unique patterns
+PAI 3/5: island too large
+PAI 4/5: island too large
+PAI 5/5: 6 unique patterns
+CPAI 1/7: 86 unique patterns
+CPAI 2/7: 657 unique patterns
+CPAI 3/7: island too large
+CPAI 4/7: island too large
+CPAI 5/7: 76 unique patterns
+CPAI 6/7: 240 unique patterns
+CPAI 7/7: 28 unique patterns
+NPAI 1/2: 3 unique patterns
+NPAI 2/2: 33 unique patterns
+--------------------------
+Genome 44/90: NC_013655
+No PAI sequences
+No CPAI sequences
+NPAI 1/1: 33970 unique patterns
+--------------------------
+Genome 45/90: NC_012971
+No PAI sequences
+CPAI 1/7: 5 unique patterns
+CPAI 2/7: 4568 unique patterns
+CPAI 3/7: 43 unique patterns
+CPAI 4/7: 185 unique patterns
+CPAI 5/7: 15 unique patterns
+CPAI 6/7: 10 unique patterns
+CPAI 7/7: 57 unique patterns
+NPAI 1/1: 17 unique patterns
+--------------------------
+Genome 46/90: NC_017907
+No PAI sequences
+No CPAI sequences
+NPAI 1/1: 450 unique patterns
+--------------------------
+Genome 47/90: NC_013369
+No PAI sequences
+No CPAI sequences
+NPAI 1/1: 375 unique patterns
+--------------------------
+Genome 48/90: NC_013366
+No PAI sequences
+No CPAI sequences
+NPAI 1/2: 810 unique patterns
+NPAI 2/2: 335 unique patterns
+--------------------------
+Genome 49/90: NC_011749
+No PAI sequences
+CPAI 1/1: 55556 unique patterns
+NPAI 1/1: 383 unique patterns
+--------------------------
+Genome 50/90: NC_017642
+No PAI sequences
+CPAI 1/1: 663 unique patterns
+No NPAI sequences
+--------------------------
+Genome 51/90: NC_008253
+No PAI sequences
+CPAI 1/7: 113 unique patterns
+CPAI 2/7: island too large
+CPAI 3/7: island too large
+CPAI 4/7: 8 unique patterns
+CPAI 5/7: island too large
+CPAI 6/7: island too large
+CPAI 7/7: island too large
+NPAI 1/3: 3 unique patterns
+NPAI 2/3: 17 unique patterns
+NPAI 3/3: 92 unique patterns
+--------------------------
+Genome 52/90: NC_018654
+No PAI sequences
+No CPAI sequences
+NPAI 1/1: 532 unique patterns
+--------------------------
+Genome 53/90: NC_018661
+No PAI sequences
+CPAI 1/13: island too large
+CPAI 2/13: island too large
+CPAI 3/13: 0 unique patterns
+CPAI 4/13: 67 unique patterns
+CPAI 5/13: 28 unique patterns
+CPAI 6/13: island too large
+CPAI 7/13: 66 unique patterns
+CPAI 8/13: 9 unique patterns
+CPAI 9/13: 649 unique patterns
+CPAI 10/13: 126 unique patterns
+CPAI 11/13: 55 unique patterns
+CPAI 12/13: 8395 unique patterns
+CPAI 13/13: island too large
+NPAI 1/1: 12 unique patterns
+--------------------------
+Genome 54/90: NC_002128
+No PAI sequences
+No CPAI sequences
+NPAI 1/1: 449 unique patterns
+--------------------------
+Genome 55/90: NC_013010
+No PAI sequences
+No CPAI sequences
+NPAI 1/1: 442 unique patterns
+--------------------------
+Genome 56/90: NC_020163
+No PAI sequences
+CPAI 1/2: 68 unique patterns
+CPAI 2/2: 75 unique patterns
+NPAI 1/1: 81 unique patterns
+--------------------------
+Genome 57/90: NC_010498
+No PAI sequences
+CPAI 1/8: 14 unique patterns
+CPAI 2/8: 52 unique patterns
+CPAI 3/8: 19 unique patterns
+CPAI 4/8: 25 unique patterns
+CPAI 5/8: 20 unique patterns
+CPAI 6/8: island too large
+CPAI 7/8: 7 unique patterns
+CPAI 8/8: 36 unique patterns
+NPAI 1/2: 8 unique patterns
+NPAI 2/2: 24 unique patterns
+--------------------------
+Genome 58/90: NC_017906
+No PAI sequences
+CPAI 1/6: 247 unique patterns
+CPAI 2/6: island too large
+CPAI 3/6: 9229 unique patterns
+CPAI 4/6: 111 unique patterns
+CPAI 5/6: 35 unique patterns
+CPAI 6/6: island too large
+NPAI 1/2: 10 unique patterns
+NPAI 2/2: 34 unique patterns
+--------------------------
+Genome 59/90: NC_011742
+No PAI sequences
+CPAI 1/7: 100 unique patterns
+CPAI 2/7: 18 unique patterns
+CPAI 3/7: island too large
+CPAI 4/7: island too large
+CPAI 5/7: 79 unique patterns
+CPAI 6/7: 241 unique patterns
+CPAI 7/7: 65 unique patterns
+NPAI 1/2: 3 unique patterns
+NPAI 2/2: 33 unique patterns
+--------------------------
+Genome 60/90: NC_017632
+No PAI sequences
+CPAI 1/10: island too large
+CPAI 2/10: 64 unique patterns
+CPAI 3/10: island too large
+CPAI 4/10: island too large
+CPAI 5/10: 189 unique patterns
+CPAI 6/10: 15 unique patterns
+CPAI 7/10: 2288 unique patterns
+CPAI 8/10: 63 unique patterns
+CPAI 9/10: island too large
+CPAI 10/10: 30 unique patterns
+NPAI 1/2: 30 unique patterns
+NPAI 2/2: 3 unique patterns
+--------------------------
+Genome 61/90: NC_017646
+No PAI sequences
+CPAI 1/8: island too large
+CPAI 2/8: 45 unique patterns
+CPAI 3/8: 7 unique patterns
+CPAI 4/8: 109 unique patterns
+CPAI 5/8: island too large
+CPAI 6/8: island too large
+CPAI 7/8: 1153 unique patterns
+CPAI 8/8: 24 unique patterns
+NPAI 1/2: 17 unique patterns
+NPAI 2/2: 19 unique patterns
+--------------------------
+Genome 62/90: NC_017639
+No PAI sequences
+No CPAI sequences
+No NPAI sequences
+--------------------------
+Genome 63/90: NC_009837
+No PAI sequences
+CPAI 1/2: 315 unique patterns
+CPAI 2/2: 59214 unique patterns
+NPAI 1/1: 181 unique patterns
+--------------------------
+Genome 64/90: NC_009801
+No PAI sequences
+CPAI 1/6: 136 unique patterns
+CPAI 2/6: 47 unique patterns
+CPAI 3/6: 51 unique patterns
+CPAI 4/6: island too large
+CPAI 5/6: 0 unique patterns
+CPAI 6/6: 54 unique patterns
+NPAI 1/1: 18 unique patterns
+--------------------------
+Genome 65/90: NC_017627
+No PAI sequences
+No CPAI sequences
+NPAI 1/1: 670 unique patterns
+--------------------------
+Genome 66/90: NC_012947
+No PAI sequences
+CPAI 1/5: 89 unique patterns
+CPAI 2/5: 4562 unique patterns
+CPAI 3/5: 5 unique patterns
+CPAI 4/5: 56 unique patterns
+CPAI 5/5: 33394 unique patterns
+NPAI 1/2: 76 unique patterns
+NPAI 2/2: 17 unique patterns
+--------------------------
+Genome 67/90: NC_011747
+No PAI sequences
+CPAI 1/3: 40993 unique patterns
+CPAI 2/3: 288 unique patterns
+CPAI 3/3: 434 unique patterns
+NPAI 1/1: 435 unique patterns
+--------------------------
+Genome 68/90: NC_013654
+No PAI sequences
+CPAI 1/4: island too large
+CPAI 2/4: 55 unique patterns
+CPAI 3/4: island too large
+CPAI 4/4: 114 unique patterns
+NPAI 1/2: 3 unique patterns
+NPAI 2/2: 22 unique patterns
+--------------------------
+Genome 69/90: NC_011745
+No PAI sequences
+CPAI 1/11: 94 unique patterns
+CPAI 2/11: 4 unique patterns
+CPAI 3/11: island too large
+CPAI 4/11: 9 unique patterns
+CPAI 5/11: 9 unique patterns
+CPAI 6/11: island too large
+CPAI 7/11: 21 unique patterns
+CPAI 8/11: 1367 unique patterns
+CPAI 9/11: 4 unique patterns
+CPAI 10/11: 18 unique patterns
+CPAI 11/11: 139 unique patterns
+NPAI 1/2: 6 unique patterns
+NPAI 2/2: 5 unique patterns
+--------------------------
+Genome 70/90: NC_011739
+No PAI sequences
+No CPAI sequences
+No NPAI sequences
+--------------------------
+Genome 71/90: NC_011353
+No PAI sequences
+CPAI 1/6: 246 unique patterns
+CPAI 2/6: island too large
+CPAI 3/6: 7520 unique patterns
+CPAI 4/6: 109 unique patterns
+CPAI 5/6: 35 unique patterns
+CPAI 6/6: island too large
+NPAI 1/1: 30 unique patterns
+--------------------------
+Genome 72/90: NC_017657
+No PAI sequences
+CPAI 1/1: 1419 unique patterns
+No NPAI sequences
+--------------------------
+Genome 73/90: NC_002655
+PAI 1/5: island too large
+PAI 2/5: island too large
+PAI 3/5: 22 unique patterns
+PAI 4/5: 0 unique patterns
+PAI 5/5: island too large
+CPAI 1/7: 0 unique patterns
+CPAI 2/7: island too large
+CPAI 3/7: island too large
+CPAI 4/7: 0 unique patterns
+CPAI 5/7: 0 unique patterns
+CPAI 6/7: 0 unique patterns
+CPAI 7/7: island too large
+NPAI 1/2: 0 unique patterns
+NPAI 2/2: 0 unique patterns
+--------------------------
+Genome 74/90: NC_009788
+No PAI sequences
+No CPAI sequences
+No NPAI sequences
+--------------------------
+Genome 75/90: NC_017638
+No PAI sequences
+CPAI 1/3: 3002 unique patterns
+CPAI 2/3: 21 unique patterns
+CPAI 3/3: 8 unique patterns
+NPAI 1/3: 37 unique patterns
+NPAI 2/3: 18 unique patterns
+NPAI 3/3: 68 unique patterns
+--------------------------
+Genome 76/90: NC_011750
+No PAI sequences
+CPAI 1/9: 36 unique patterns
+CPAI 2/9: island too large
+CPAI 3/9: 10 unique patterns
+CPAI 4/9: 16 unique patterns
+CPAI 5/9: island too large
+CPAI 6/9: 1594 unique patterns
+CPAI 7/9: 22 unique patterns
+CPAI 8/9: island too large
+CPAI 9/9: 32 unique patterns
+NPAI 1/2: 5 unique patterns
+NPAI 2/2: 22 unique patterns
+--------------------------
+Genome 77/90: NC_011741
+No PAI sequences
+CPAI 1/2: 479 unique patterns
+CPAI 2/2: 66 unique patterns
+NPAI 1/2: 16 unique patterns
+NPAI 2/2: 145 unique patterns
+--------------------------
+Genome 78/90: NC_011415
+No PAI sequences
+CPAI 1/2: 664 unique patterns
+CPAI 2/2: 69 unique patterns
+NPAI 1/2: 18 unique patterns
+NPAI 2/2: 120 unique patterns
+--------------------------
+Genome 79/90: NC_017633
+No PAI sequences
+CPAI 1/7: 73 unique patterns
+CPAI 2/7: island too large
+CPAI 3/7: 51 unique patterns
+CPAI 4/7: island too large
+CPAI 5/7: 20 unique patterns
+CPAI 6/7: 46 unique patterns
+CPAI 7/7: 135 unique patterns
+NPAI 1/2: 33 unique patterns
+NPAI 2/2: 10 unique patterns
+--------------------------
+Genome 80/90: NC_017665
+No PAI sequences
+No CPAI sequences
+NPAI 1/1: 453 unique patterns
+--------------------------
+Genome 81/90: NC_010473
+No PAI sequences
+CPAI 1/4: 7 unique patterns
+CPAI 2/4: 3997 unique patterns
+CPAI 3/4: 20 unique patterns
+CPAI 4/4: 8 unique patterns
+NPAI 1/2: 38 unique patterns
+NPAI 2/2: 81562 unique patterns
+--------------------------
+Genome 82/90: NC_017652
+No PAI sequences
+CPAI 1/12: 80 unique patterns
+CPAI 2/12: 165 unique patterns
+CPAI 3/12: 6 unique patterns
+CPAI 4/12: 16 unique patterns
+CPAI 5/12: 200 unique patterns
+CPAI 6/12: island too large
+CPAI 7/12: island too large
+CPAI 8/12: 40 unique patterns
+CPAI 9/12: 36 unique patterns
+CPAI 10/12: island too large
+CPAI 11/12: 82 unique patterns
+CPAI 12/12: 22 unique patterns
+NPAI 1/2: 3 unique patterns
+NPAI 2/2: 24 unique patterns
+--------------------------
+Genome 83/90: NC_017637
+No PAI sequences
+No CPAI sequences
+NPAI 1/1: 453 unique patterns
+--------------------------
+Genome 84/90: NC_017626
+No PAI sequences
+CPAI 1/11: island too large
+CPAI 2/11: island too large
+CPAI 3/11: 124 unique patterns
+CPAI 4/11: 84 unique patterns
+CPAI 5/11: island too large
+CPAI 6/11: 223 unique patterns
+CPAI 7/11: 80 unique patterns
+CPAI 8/11: 5 unique patterns
+CPAI 9/11: 44081 unique patterns
+CPAI 10/11: 86 unique patterns
+CPAI 11/11: 64 unique patterns
+NPAI 1/1: 35 unique patterns
+--------------------------
+Genome 85/90: NC_022370
+No PAI sequences
+CPAI 1/8: 105 unique patterns
+CPAI 2/8: 15 unique patterns
+CPAI 3/8: 187 unique patterns
+CPAI 4/8: island too large
+CPAI 5/8: island too large
+CPAI 6/8: 55 unique patterns
+CPAI 7/8: island too large
+CPAI 8/8: 32 unique patterns
+NPAI 1/3: 3 unique patterns
+NPAI 2/3: 36 unique patterns
+NPAI 3/3: 24 unique patterns
+--------------------------
+Genome 86/90: NC_022364
+No PAI sequences
+CPAI 1/2: 395 unique patterns
+CPAI 2/2: 5 unique patterns
+NPAI 1/4: 18 unique patterns
+NPAI 2/4: 55 unique patterns
+NPAI 3/4: 129 unique patterns
+NPAI 4/4: 10 unique patterns
+--------------------------
+Genome 87/90: NC_018650
+No PAI sequences
+CPAI 1/12: island too large
+CPAI 2/12: island too large
+CPAI 3/12: 96 unique patterns
+CPAI 4/12: 28 unique patterns
+CPAI 5/12: island too large
+CPAI 6/12: 67 unique patterns
+CPAI 7/12: 9 unique patterns
+CPAI 8/12: 45 unique patterns
+CPAI 9/12: 127 unique patterns
+CPAI 10/12: 56 unique patterns
+CPAI 11/12: 48 unique patterns
+CPAI 12/12: island too large
+NPAI 1/1: 12 unique patterns
+--------------------------
+Genome 88/90: NC_017634
+No PAI sequences
+CPAI 1/5: 119 unique patterns
+CPAI 2/5: 16 unique patterns
+CPAI 3/5: island too large
+CPAI 4/5: island too large
+CPAI 5/5: 36 unique patterns
+NPAI 1/2: 4 unique patterns
+NPAI 2/2: 33 unique patterns
+--------------------------
+Genome 89/90: NC_018666
+No PAI sequences
+No CPAI sequences
+NPAI 1/1: 857 unique patterns
+--------------------------
+Genome 90/90: NC_017631
+No PAI sequences
+CPAI 1/13: island too large
+CPAI 2/13: 4 unique patterns
+CPAI 3/13: 13 unique patterns
+CPAI 4/13: 190 unique patterns
+CPAI 5/13: 43 unique patterns
+CPAI 6/13: 11 unique patterns
+CPAI 7/13: island too large
+CPAI 8/13: 44 unique patterns
+CPAI 9/13: 67 unique patterns
+CPAI 10/13: island too large
+CPAI 11/13: 80 unique patterns
+CPAI 12/13: island too large
+CPAI 13/13: 181 unique patterns
+NPAI 1/2: 3 unique patterns
+NPAI 2/2: 24 unique patterns
+--------------------------
