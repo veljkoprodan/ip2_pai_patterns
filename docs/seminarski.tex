@@ -2,7 +2,15 @@
 \usepackage[a4paper, margin=1in]{geometry}
 \usepackage{hyperref}
 \usepackage{graphicx}
+\usepackage{caption}
+\captionsetup[figure]{name=Слика}
 \usepackage[serbian]{babel}
+\addto\captionsserbian{
+  \renewcommand{\refname}{Литература}
+}
+\addto\captionsserbian{
+    \renewcommand\contentsname{Садржај}
+}
 \usepackage[T2A]{fontenc}
 \usepackage[utf8]{inputenc}
 
@@ -53,10 +61,6 @@
 
 \tableofcontents
 
-\addto\captionsserbian{
-    \renewcommand\contentsname{Садржај}
-}
-
 \newpage
 
 \section{Увод}
@@ -65,9 +69,12 @@
 
 Патогена острва (\textit{Pathogenicity island} - PAI) су посебни генетски елементи присутни на хромозомима великог броја бактеријских патогена. PAI кодирају различите факторе вируленције и обично су одсутни код непатогених сојева исте или блиско сродних врста. Сматрају се подкласом геномских острва која се стичу хоризонталним преносом гена путем трансдукције, коњугације и трансформације, и пружају "квантне скокове" у микробној еволуцији, што доприноси способности микроорганизама да еволуирају \cite{Gal-Mor2006-dv}. 
 
-\begin{center}
-\includegraphics[width=0.5\linewidth]{images/paidb.png}
-\end{center}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.6\linewidth]{images/paidb.png}
+    \caption{Графички приказ острва унутар генома}
+    \label{fig:islands}
+\end{figure}
 
 Једна бактеријска врста може имати више од једног PAI. PAI су кластери гена уграђени у геном патогених организама, хромозомално или екстрахромозомално. PAI могу варирати од 10-200 кб. Они носе гене који им омогућавају да производе различите факторе вируленције, укључујући адхезине, токсине, системе секреције и друге елементе који им помажу да се вежу за ћелије домаћина, избегну имуни систем и изазову болест \cite{Schmidt2004-xj}. Подаци засновани на бројним секвенцираним бактеријским геномима показују да су PAI присутни у широком спектру грам-позитивних и грам-негативних бактеријских патогена људи, животиња и биљака. Недавна истраживања усмерена на PAI довела су до идентификације многих нових фактора вируленције које ове врсте користе током инфекције својих домаћина \cite{Gal-Mor2006-dv}.
 
@@ -138,9 +145,12 @@ NOSEP\cite{8053457} (Nonoverlapping Sequence Pattern Mining With Gap Constraints
 
 Да би се превазишао наведени проблем и имплементирао алгоритам без претраге уназад, предлаже се коришћење Nettree структуре података. Nettree се конструише на основу обрасца и секвенце, а затим се итеративно проналазе минималне путање које представљају појаве обрасца. После сваке итерације, минимална путања и неважећи чворови се уклањају из дрвета. Овај процес се понавља док дрво не постане празно, гарантујући проналажење свих појава обрасца.
 
-\begin{center}
-\includegraphics[width=0.6\linewidth]{images/nettree.png}
-\end{center}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.6\linewidth]{images/nettree.png}
+    \caption{Приказ структуре Nettree}
+    \label{fig:nettree}
+\end{figure}
 
 Са друге стране, NOSEP алгоритам користи приступ раста образаца за смањење простора кандидата образаца, који се показао ефикаснијим од приступа претраге у ширину и дубину. NOSEP поседује Apriori својство, што имплицира да ако подобразац није фреквентан, његов надобразац такође не може бити фреквентан. Захваљујући овом својству, простор кандидата образаца се ефикасно редукује.
 
@@ -186,6 +196,36 @@ $$ 1\, -1\, 1\, -1\, 7\, -1\, 20\, -1\, 1\, -1\, 3\, -1\, 7\, -1\, 1\, -1\, 3\, 
 NOSEP је потом покренут над свим геномима и њиховим острвима ради проналажења образаца у оквиру острва који се не налазе ван острва. Међутим, да би се осигурало да пронађени обрасци буду јединствени за острва, уклоњени су они обрасци који су били присутни и ван острва, у свим осталим геномима. Због дугачког времена извршавања овог алгоритма, у неким острвима већих дужина нису претраживани обрасци.
 
 Приликом претраге одређених образаца унутар генома, као и код алгоритма TF-IDF, коришћен је \textit{pairwise2} модул из библиотеке Biopython.
+
+\section{Анализа резултата}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\linewidth]{images/top_10_hist.png}
+    \caption{Хистограм 10 најчешћих секвенци}
+    \label{fig:top10hist}
+\end{figure}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\linewidth]{images/top_1_by_islands.png}
+    \caption{Најчешћи образац по острвима}
+    \label{fig:top1}
+\end{figure}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\linewidth]{images/top_2_by_islands.png}
+    \caption{Други најчешћи образац по острвима}
+    \label{fig:top2}
+\end{figure}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\linewidth]{images/top_3_by_islands.png}
+    \caption{Трећи најчешћи образац по острвима}
+    \label{fig:top3}
+\end{figure}
 
 \newpage
 \bibliography{seminarski}
