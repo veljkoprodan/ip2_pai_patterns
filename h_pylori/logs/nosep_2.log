@@ -1,0 +1,40 @@
+Max pattern length: 40
+--------------------------
+Genome 23/53: NC_018939
+No PAI sequences
+CPAI 1/2: 76 unique patterns
+CPAI 2/2: island too large
+No NPAI sequences
+--------------------------
+Genome 25/53: NC_018937
+No PAI sequences
+CPAI 1/2: 76 unique patterns
+CPAI 2/2: island too large
+No NPAI sequences
+--------------------------
+Genome 33/53: NC_018938
+No PAI sequences
+CPAI 1/2: 76 unique patterns
+CPAI 2/2: island too large
+No NPAI sequences
+--------------------------
+Genome 37/53: NC_000915
+PAI 1/1: 0 unique patterns
+CPAI 1/1: 76 unique patterns
+NPAI 1/1: island too large
+--------------------------
+Max pattern length: 40
+--------------------------
+Genome 37/53: NC_000915
+PAI 1/1: 0 unique patterns
+Max pattern length: 40
+--------------------------
+Genome 37/53: NC_000915
+PAI 1/1: 0 unique patterns
+Max pattern length: 40
+--------------------------
+Genome 37/53: NC_000915
+PAI 1/1: 27859 unique patterns
+CPAI 1/1: 76 unique patterns
+NPAI 1/1: island too large
+--------------------------
