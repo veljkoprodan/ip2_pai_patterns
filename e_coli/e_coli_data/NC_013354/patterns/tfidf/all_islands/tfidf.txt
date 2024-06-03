@@ -1,0 +1,21 @@
+AAGCTCAT
+CPAI 1: 5
+----------------
+TTTCTTTCT
+CPAI 1: 4
+----------------
+TTCATAATT
+CPAI 1: 3
+----------------
+TTTCTTTCTC
+CPAI 1: 4
+----------------
+TTTTCTTTCT
+CPAI 1: 3
+----------------
+TTTTCTTTCTC
+CPAI 1: 3
+----------------
+ACAAAAAGCTAC
+CPAI 1: 2
+----------------
